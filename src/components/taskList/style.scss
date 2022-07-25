@@ -1,0 +1,13 @@
+
+.task-wrap {
+    display: flex;
+    padding: 20px 43px 0 40px;
+    background-color: #7891d2;
+}
+.task-wrap:last-child {
+    padding-bottom: 20px;
+}
+.hide {
+    display: none;
+}
+
